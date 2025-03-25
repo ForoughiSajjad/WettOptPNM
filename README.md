@@ -1,4 +1,4 @@
-# WettOptPNM: Pore-by-Pore Wettability Optimization Pore Network Modelling
+# WettOptPNM: Pore-by-Pore Wettability Optimization Based on Pore Network Modelling (pnflow)
 
 ## Overview
 
