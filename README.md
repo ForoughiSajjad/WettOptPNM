@@ -8,7 +8,7 @@ WettOptPNM is a computational framework for modeling and optimizing wettability 
 - [DOI:10.1007/s11242-021-01609-y](https://link.springer.com/article/10.1007/s11242-021-01609-y)
 - [DOI:10.1007/s11242-025-02156-6](https://link.springer.com/article/10.1007/s11242-025-02156-6)
 
-This project aims to provide a robust and efficient tool for simulating wettability alteration and optimization in various porous media applications.
+This project aims to provide a robust and efficient tool for simulating wettability distribution based on pore-by-pore occupancy optimization in various porous media applications.
 
 ## Key Features
 
